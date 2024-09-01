@@ -1,0 +1,10 @@
+[package]
+name = "datafusion-plugin-core"
+version = "0.1.0"
+edition = "2021"
+
+[build-dependencies]
+rustc_version = "0.4.1"
+
+[dependencies]
+datafusion = "41.0.0"
