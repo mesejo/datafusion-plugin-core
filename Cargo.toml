@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [build-dependencies]
-rustc_version = "0.4.1"
+rustc_version = "0.4.0"
 
 [dependencies]
 datafusion = "41.0.0"
